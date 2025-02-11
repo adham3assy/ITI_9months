@@ -1,6 +1,6 @@
 # ITI_9months
-C
-C++
-Python
-Linear Algebra
-Probabilities
+C  ,
+C++  ,
+Python  ,
+Linear Algebra  ,
+Probabilities  ,
