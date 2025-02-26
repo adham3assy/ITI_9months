@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730464952 source:e:\code blocks c++ assesments\a3 (store class in heap)\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

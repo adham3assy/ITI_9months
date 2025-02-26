@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730464279 source:e:\code blocks c++ assesments\a1 (struct and print )\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
