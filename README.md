@@ -22,9 +22,6 @@ This repo documents my learning journey, covering fundamental programming, mathe
 ## 📂 Repository Structure  
 This repository includes notes, code implementations, and projects from my coursework. Stay tuned for updates as I continue expanding my skills!  
 
-## 🌟 Connect with Me  
-If you're interested in discussing AI, ML, or software engineering, feel free to reach out!  
-
 
 ---
 
