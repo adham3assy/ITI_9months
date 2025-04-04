@@ -28,7 +28,6 @@ This repository includes notes, code implementations, and projects from my cours
 
 ---
 
-Let me know if you'd like any modifications! 🚀🔥
 
 
 
